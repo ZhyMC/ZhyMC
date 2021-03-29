@@ -13,7 +13,6 @@ A developer who devotes to studying Software Engineering.
 
 ### Programming Languages 📝
 
-1. JavaScript/TypeScript (Node.js)
-2. Java
-3. C#
-4. C/C++
+```js
+var languages = ["JavaScript/TypeScript (Node.js)", "Java", "C#", "C++"];
+```
