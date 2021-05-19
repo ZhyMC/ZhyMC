@@ -11,9 +11,7 @@ A developer who devotes to Computer Science.
 3. Modeling for complex systems ✏️
 4. Container Management Tools 🐋
 
-### Personal Blog 🥳
-
-Welcome to my blog!
+### Personal Blog 🏡
 
 <https://math.cat>
 
