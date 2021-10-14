@@ -17,5 +17,4 @@ A developer who devotes to Computer Science.
 
 ### Working On 🚧
 
-I am currently working on the project: 
-[universe](https://github.com/wyattzheng/universe)
+I am currently working on the project [universe](https://github.com/wyattzheng/universe)
