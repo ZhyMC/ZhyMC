@@ -18,4 +18,4 @@ A developer who devotes to Computer Science.
 ### Working On
 
 I am currently working on the project: 
-<https://github.com/wyattzheng/universe>
+![universe](https://github.com/wyattzheng/universe)
