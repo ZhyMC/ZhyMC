@@ -13,7 +13,7 @@ A developer who devotes to Computer Science.
 
 ### Personal Blog 🏡
 
-<https://math.cat>
+<https://huaiyu.org/>
 
 ### Working On 🚧
 
