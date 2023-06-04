@@ -17,4 +17,4 @@ A developer who devotes to Computer Science.
 
 ### Heart Beat (RealTime) ❤
 
-![heartbeat](heartbeat.png)
+<img src="heartbeat.png" width="400" />
