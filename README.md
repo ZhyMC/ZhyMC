@@ -13,8 +13,4 @@ A developer who devotes to Computer Science.
 
 ### Personal Blog 🏡
 
-<https://huaiyu.org/>
-
-### Heart Beat (RealTime) ❤
-
-<img src="heartbeat.png" width="400" />
+<https://wyatt.zone/>
